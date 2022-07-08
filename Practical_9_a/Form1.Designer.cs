@@ -216,6 +216,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Cancel Order";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -237,6 +238,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "Item Cancel";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label3
             // 
@@ -244,9 +246,9 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label3.Location = new System.Drawing.Point(315, 405);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(153, 20);
+            this.label3.Size = new System.Drawing.Size(183, 20);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Santoshi Nasta House";
+            this.label3.Text = "Friends Food Club and Bar";
             // 
             // Form1
             // 
