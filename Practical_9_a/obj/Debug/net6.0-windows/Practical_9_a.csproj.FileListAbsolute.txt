@@ -1,0 +1,17 @@
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\bin\Debug\net6.0-windows\Practical_9_a.exe
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\bin\Debug\net6.0-windows\Practical_9_a.deps.json
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\bin\Debug\net6.0-windows\Practical_9_a.runtimeconfig.json
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\bin\Debug\net6.0-windows\Practical_9_a.dll
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\bin\Debug\net6.0-windows\Practical_9_a.pdb
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.csproj.AssemblyReference.cache
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.Form1.resources
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.csproj.GenerateResource.cache
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.AssemblyInfoInputs.cache
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.AssemblyInfo.cs
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.csproj.CoreCompileInputs.cache
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.dll
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\refint\Practical_9_a.dll
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.pdb
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\Practical_9_a.genruntimeconfig.cache
+D:\SEM 4\ADT\PRACTICALS\Practical_9_a\Practical_9_a\obj\Debug\net6.0-windows\ref\Practical_9_a.dll
