@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEM 4\\ADT\\PRACTICALS\\Food_Court\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj": {}
+    "D:\\SEM 4\\ADT\\PRACTICALS\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj": {}
   },
   "projects": {
-    "D:\\SEM 4\\ADT\\PRACTICALS\\Food_Court\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj": {
+    "D:\\SEM 4\\ADT\\PRACTICALS\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEM 4\\ADT\\PRACTICALS\\Food_Court\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj",
+        "projectUniqueName": "D:\\SEM 4\\ADT\\PRACTICALS\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj",
         "projectName": "Practical_9_a",
-        "projectPath": "D:\\SEM 4\\ADT\\PRACTICALS\\Food_Court\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj",
+        "projectPath": "D:\\SEM 4\\ADT\\PRACTICALS\\Practical_9_a\\Practical_9_a\\Practical_9_a.csproj",
         "packagesPath": "C:\\Users\\harshil\\.nuget\\packages\\",
-        "outputPath": "D:\\SEM 4\\ADT\\PRACTICALS\\Food_Court\\Practical_9_a\\Practical_9_a\\obj\\",
+        "outputPath": "D:\\SEM 4\\ADT\\PRACTICALS\\Practical_9_a\\Practical_9_a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
